@@ -1,0 +1,11 @@
+# CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+dke_declare_new_kingdom;Proclaim a New Kingdom;;;;;;;;;;;;;x
+dke_declare_new_kingdom_desc;An influential [Root.PrimaryTitle.GetRulerTitle] such as me surely deserves to be recognized as something more. In time, other rulers will acknowledge my claim, should I be so bold as to announce it...;;;;;;;;;;;;;x
+dke_declare_new_kingdom_tooltip;A new Kingdom is proclaimed!;;;;;;;;;;;;;x
+dke_declare_new_kingdom_requirement_tooltip;Hold a duchy title\n;;;;;;;;;;;;;x
+
+dke_declare_new_empire;Proclaim a New Empire;;;;;;;;;;;;;x
+dke_declare_new_empire_desc;A powerful [Root.PrimaryTitle.GetRulerTitle] such as me surely deserves to be recognized as something more. In time, other rulers will acknowledge my claim, should I be so bold as to announce it...;;;;;;;;;;;;;x
+dke_declare_new_empire_tooltip;A new Empire is proclaimed!;;;;;;;;;;;;;x
+dke_declare_new_empire_requirement_tooltip;Hold a kingdom title\n;;;;;;;;;;;;;x

@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_dke_declare_new_kingdom"
+		texturefile = "gfx\\interface\\decision_icon_form_new_kingdom.dds"
+	}
+	spriteType = {
+		name = "GFX_dke_declare_new_empire"
+		texturefile = "gfx\\interface\\decision_icon_form_new_empire.dds"
+	}
+}
