@@ -8,18 +8,7 @@ decisions = {
 			is_playable = yes
 			tier = DUKE
 			NOT = { tier = KING }
-			
-			OR = {
-				has_dlc = "Charlemagne"
-				AND = {
-					is_alternate_start = yes
-					has_alternate_start_parameter = {
-						key = dejure_kingdoms
-						value = none
-					}
-				}
-			}
-			
+						
 			holy_order = no
 			
 			NOT = {
@@ -167,24 +156,7 @@ decisions = {
 		potential = {
 			is_playable = yes
 			tier = KING
-			
-			OR = {
-				has_dlc = "Charlemagne"
-				AND = {
-					is_alternate_start = yes
-					OR = {
-						has_alternate_start_parameter = {
-							key = dejure_kingdoms
-							value = none
-						}
-						has_alternate_start_parameter = {
-							key = dejure_empires
-							value = none
-						}
-					}
-				}
-			}
-			
+						
 			holy_order = no
 			
 			NOT = { tier = EMPEROR }
