@@ -10,14 +10,7 @@ decisions = {
 			NOT = { tier = KING }
 						
 			holy_order = no
-			
-			NOT = {
-				has_game_rule = {
-					name = dynamic_realms
-					value = off
-				}
-			}
-			
+
 			OR = {
 				ai = no
 				AND = {
@@ -183,13 +176,6 @@ decisions = {
 							value = none
 						}
 					}
-				}
-			}
-			
-			NOT = {
-				has_game_rule = {
-					name = dynamic_realms
-					value = off
 				}
 			}
 		}
